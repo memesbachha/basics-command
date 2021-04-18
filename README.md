@@ -1,3 +1,6 @@
+# Termux
+>Termux is an Android terminal emulator and Linux environment Android app that works directly with root and without root. 
+
 # basics command 
 
 List of All the Termux Basic Commands:
