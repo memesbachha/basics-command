@@ -8,7 +8,7 @@ You can run this command in a sequence to practice and know yourself how these c
 
 # Update all the packages and dependencies installed on the system:
 
- apt update && apt upgrade
+>apt update && apt upgrade
 
 # If any update is available it will ask you on the terminal if you want to upgrade or not, press Y if you want the update.
 
