@@ -117,9 +117,9 @@ you can install any package from the list, just type pkg install package-name.
 
 you can uninstall any package from the list, just type pkg uninstall package-name.it will ask you where if you wanna delete the package or not press y and the package will be uninstalled.
 
-# Install Python in termux:
+# Install cmatrix in termux:
 
->pkg install python
+>pkg install cmatrix
 
 Just type this command and it will be installed in your termux press y if it asks for confirmation.after installing python you can write code and also run your own python scripts. Type python to check if python is installed correctly or not.
 
