@@ -221,7 +221,7 @@ This will show you info about your system as well as you can also check your Arc
  
  
 
-Check your Memory Usage in Termux:
+# Check your Memory Usage in Termux:
 
 free -h -t
 
