@@ -227,4 +227,4 @@ This will show you info about your system as well as you can also check your Arc
 This will show you the amount of free and used memory in the system
 
 
-
+# Demo video comming soon !
