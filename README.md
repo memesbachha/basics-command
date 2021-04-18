@@ -5,12 +5,6 @@
 
 List of All the Termux Basic Commands:
 
-You can run this command in a sequence to practice and know yourself how these commands work on termux.if you have any questions or ideas please comment I will be happy to help you.
-
->Note: If any part of the command is green that means it is a variable. The green part of the code will change according to the situation.
-
-# Update all the packages and dependencies installed on the system:
-
 >apt update && apt upgrade
 
 # If any update is available it will ask you on the terminal if you want to upgrade or not, press Y if you want the update.
