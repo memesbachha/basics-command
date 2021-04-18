@@ -72,7 +72,7 @@ Rmdir stands for Remove Directory.Type rmdir space folder name to remove that fo
 
  rm -rf folderName
 
-# Please use this command with caution. This command will remove a folder and all the files and folders within it. This command is useful when you want to delete any project downloaded from Github.
+Use this command with caution. This command will remove a folder and all the files and folders within it. This command is useful when you want to delete any project downloaded from Github.
 
 # Copy a file from one directory to another directory:
 
