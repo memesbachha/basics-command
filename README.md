@@ -228,3 +228,27 @@ This will show you the amount of free and used memory in the system
 
 
 # Demo video comming soon !
+
+# connect me
+
+# Teligram channel
+
+https://t.me/joinchat/LvP9ZrwL2TBlY2I1
+
+# My YouTube channel
+
+https://youtube.com/channel/UCVHP4sTp8hm0GTRWwY8u0Xw
+# my second YouTube channel
+
+https://youtube.com/channel/UC4DOIS8V0ui5nZW-CmD1buw
+
+# Instagram
+https://www.instagram.com/memesbachha/?hl=en
+
+# Facebook id 
+ 
+https://facebook.com/memes.bachha
+
+# Twitter username
+
+memesbachha
